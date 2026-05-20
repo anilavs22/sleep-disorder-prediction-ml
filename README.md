@@ -1,4 +1,3 @@
-
 # Sleep Disorder Prediction using Machine Learning
 
 ## Overview
@@ -33,7 +32,4 @@ Predicts:
 - Sleep Apnea
 - No Sleep Disorder
 
-## Project Structure
-- Jupyter Notebook implementation
-- Saved ML model
-- Scaler for preprocessing
+
